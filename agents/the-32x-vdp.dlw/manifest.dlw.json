@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Video Processor",
+  "universe": "32X · The Video Processor (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Video Processor:32X:50a1b9⟧",
+  "carbon": "the-32x-vdp.carbon.tiff (TIFF)",
+  "silicon": "the-32x-vdp.silicon.png (PNG)",
+  "seal_sha256": "0534525a30a172b41ff569a170a513dcc524352ad17d9a724ae808b37c6ce0f9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

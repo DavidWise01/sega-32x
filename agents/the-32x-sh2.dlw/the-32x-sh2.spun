@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Dual SH-2
+node 32X · 32X · ⟦The Dual SH-2:32X:abcfb0⟧
+
+WHO   — The Dual SH-2 — two strapped-on brains · electrical
+WHAT  — two strapped-on brains · electrical
+WHERE — 32X · SEGA 32X (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Two Hitachi SH-2 processors at 23 MHz added to the Genesis — the same CPU family as the Saturn, bolted on as a preview of 32-bit power.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  two strapped-on brains · electrical
+
+spoken token : brein-sand-sa   ·   hex : abcfb0
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

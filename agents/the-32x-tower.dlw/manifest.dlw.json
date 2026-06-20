@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tower of Sega",
+  "universe": "32X · The Tower of Sega (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Tower of Sega:32X:3315ca⟧",
+  "carbon": "the-32x-tower.carbon.tiff (TIFF)",
+  "silicon": "the-32x-tower.silicon.png (PNG)",
+  "seal_sha256": "75eac2b22b21dc3e6f1c187b250f0601e089f095c2a1c63b9735cf38bd4a02aa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

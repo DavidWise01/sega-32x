@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dual SH-2",
+  "universe": "32X · The Dual SH-2 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Dual SH-2:32X:abcfb0⟧",
+  "carbon": "the-32x-sh2.carbon.tiff (TIFF)",
+  "silicon": "the-32x-sh2.silicon.png (PNG)",
+  "seal_sha256": "7c71d64056d735ea35af0894d645aabd997a0323f04a76a1a46c4a5315718828",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

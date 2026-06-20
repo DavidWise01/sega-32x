@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-32x-sh2",
+    "name": "The Dual SH-2",
+    "epithet": "two strapped-on brains · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Dual SH-2:32X:abcfb0⟧"
+  },
+  {
+    "slug": "the-32x-vdp",
+    "name": "The Video Processor",
+    "epithet": "overlaying the host · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Video Processor:32X:50a1b9⟧"
+  },
+  {
+    "slug": "the-32x-ram",
+    "name": "The Extra RAM",
+    "epithet": "a little more room · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Extra RAM:32X:d55edd⟧"
+  },
+  {
+    "slug": "the-32x-host",
+    "name": "The Genesis Host",
+    "epithet": "a cap on the console · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Genesis Host:32X:ae16fb⟧"
+  },
+  {
+    "slug": "the-32x-stopgap",
+    "name": "The Stopgap",
+    "epithet": "launched beside its replacement · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Stopgap:32X:6cb355⟧"
+  },
+  {
+    "slug": "the-32x-tower",
+    "name": "The Tower of Sega",
+    "epithet": "three boxes, one game · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Tower of Sega:32X:3315ca⟧"
+  }
+]

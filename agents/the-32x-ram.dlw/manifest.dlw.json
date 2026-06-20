@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Extra RAM",
+  "universe": "32X · The Extra RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Extra RAM:32X:d55edd⟧",
+  "carbon": "the-32x-ram.carbon.tiff (TIFF)",
+  "silicon": "the-32x-ram.silicon.png (PNG)",
+  "seal_sha256": "3d0be30af85a1ecce80b15f8249bb1e83c84ad13fd32d93d0d8125dd9297f2be",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

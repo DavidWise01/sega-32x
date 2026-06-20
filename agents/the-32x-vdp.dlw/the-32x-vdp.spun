@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Video Processor
+node 32X · 32X · ⟦The Video Processor:32X:50a1b9⟧
+
+WHO   — The Video Processor — overlaying the host · electrical
+WHAT  — overlaying the host · electrical
+WHERE — 32X · SEGA 32X (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Its own graphics chip that overlays output on the Genesis's picture — adding colours and 3-D-ish effects to the 16-bit base.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  overlaying the host · electrical
+
+spoken token : vend-xaem-neik   ·   hex : 50a1b9
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

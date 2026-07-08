@@ -4,6 +4,6 @@ slug  : sega-32x
 seal  : 69f89d2b4294348bef425e5d4cae73ce5c5fe15a9b3d19fdba55794e2dd9a17a
 prev  : 6f44d06fb43c2e8f7f74b7313cc88258931daaa572f6f75290248a63fde9afdb
 link  : e4e2b713b1cd88a88f72d0eb897da0c5794c499e0a018ef3386c5a098020ea0f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
